@@ -5,6 +5,6 @@
 - 📫 Reach me through - Mail- prajapatiatul2@gmail.com
                          
 <img src="https://img.icons8.com/cotton/64/000000/pacman.png"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Atul>&theme=<THEME_NAME>" />
+
 
 
