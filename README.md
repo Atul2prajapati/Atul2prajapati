@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on Design or app Development
 - 📫 Reach me through - Mail- prajapatiatul2@gmail.com
                          
-Atul2prajapati/Atul2prajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://img.icons8.com/cotton/64/000000/pacman.png"/>
+
